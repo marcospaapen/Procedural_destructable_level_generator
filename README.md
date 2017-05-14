@@ -1,4 +1,4 @@
-# Procedural_destructable_level_generator
+# Procedural destructable level generator
 
 A simple complete project that allowes you to create destructable objects by slicing any mesh, 
 then use these sliced meshes to create a playable procedural level by adjusting a few parameters
